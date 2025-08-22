@@ -1,0 +1,8 @@
+## Interface: 110000
+## Title: TiefenGeschichten
+## Notes: Zeigt fehlende Tiefen-„Geschichten“-Erfolgsschritte und markiert die aktuelle Geschichtsvariation beim Hover über Tiefeneingänge.
+## Author: K4m4r0
+## Version: 1.0.0
+## SavedVariables: TiefenGeschichtenDB
+
+TiefenGeschichten.lua
